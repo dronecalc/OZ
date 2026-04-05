@@ -10,8 +10,6 @@ This is the `oz-skills` repository - a public catalog of reusable Agent Skills f
 
 This repository follows the [Agent Skills](https://agentskills.io) open standard. Agent Skills are folders containing a `SKILL.md` file with YAML frontmatter and markdown instructions that agents can discover and use.
 
-For comprehensive details about the skills format and usage patterns, see `wip/warp-skills-overview.md`.
-
 ## Repository Structure
 
 All skills are stored in the `.agents/skills/` directory. Each skill has its own subdirectory:
